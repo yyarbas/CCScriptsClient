@@ -1,4 +1,5 @@
 --CLIENT DIG--
+--test
 
 local SLOT_COUNT = 16
 
